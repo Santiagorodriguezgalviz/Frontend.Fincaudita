@@ -1,0 +1,17 @@
+.sort-icon {
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+  .sort-icon.fa-sort {
+    color: gray;
+  }
+  
+  .sort-icon.fa-sort-up {
+    color: green;
+  }
+  
+  .sort-icon.fa-sort-down {
+    color: red;
+  }
+  
